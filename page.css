@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+}
+.container1{
+    width: 100%;
+}
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+
+}
+.parent :hover{
+  background-color: black;  
+}
+.parent1{
+    width: 100%;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    gap: 13rem;
+    padding: 2rem;
+}
+.parent2{
+    width: 100%;
+    display: flex;
+    padding: 2rem;
+    /* justify-content: center; */
+    /* align-items: center; */
+    gap: 3rem;
+}
+.parent3{
+    width: 100%;
+    background-color: #f0fcf8;
+}
+.child3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10rem;
+    color: #597c72;
+}
+span{
+    display: block;
+}
+.parent4{
+    width: 100%;
+}
+.child4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10rem;
+    color: #597c72;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parent6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid black; */
+padding: 2rem;
+}
+.child5 h5{
+    color: #24574a;
+}
+.child5 p{
+    color: #4d776c;
+}
+.parent8{
+   display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding: 2rem;
+}
+.child6 h5{
+    color: #24574a;
+}
+.child6 p{
+    color: #4d776c;
+}
+.parent10{
+   display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding: 2rem; 
+    gap: 6rem;
+}
+.child7{
+    border: 1px solid #ebefef;
+   padding: 2rem; 
+}
+.child7 p{
+    color: #6f9188;
+}
+.child7 h3{
+    color: #25584b;
+}
+
+.child8{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 0.8rem;
+    border: 1px solid #f5f8f9;
+}
+.parent13{
+    width: 100%;
+    background-color: #132a13;
+}
+.child9{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    color: #dadeda;
+     padding-left: 6rem;
+}
+
